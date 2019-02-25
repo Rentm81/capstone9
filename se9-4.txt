@@ -1,0 +1,32 @@
+25-02-2019
+
+
+Drugstores in Santiago
+
+ The idea of choice is the analysis of the amount and distribution of pharmacies in the city of Santiago, 
+the capital of Chile, according to the latest statistics only 43% of the total pharmacy in the country 
+correspond to the so-called "Chain Pharmacies" , these pharmacies with large chains of retal composed 
+by 3 companies (Green Cross, Salcobrand and Ahumada).
+  These companies have been accused and sanctioned previously for collusion and monopolistic behavior, 
+the purpose of this exercise is to implement data science tools to study not only the quantity but the 
+distribution of pharmacies in the commune with the largest floating population in the country.
+
+The problem will be focused on the location of the companies with the highest income within a plan and if 
+it were a company that tries to invest in a location, which would be the ideal based on the location of the 
+companies that obtain the highest profits in that market.
+
+
+ For these purposes we use information of:
+
+1.	Foursquare.
+https://es.foursquare.com/explore?mode=url&near=Santiago%20de%20Chile%2C%20Metropolitana%20de%20Santiago%20de%20Chile%2C%20Chile&nearGeoId=72057594041799272&q=farmacia
+2.	Farmanet.
+https://farmanet.minsal.cl/maps/#
+
+ Main tools used:
+
+A.	Georeferencing
+B.	Clustering
+
+Background from:
+“https://www.latercera.com/pulso/noticia/grandes-cadenas-farmacias-concentran-43-los-locales/230970/”

@@ -1,0 +1,30 @@
+25-02-2019
+
+
+Drugstore in Santiago of Chile
+
+Description of the data
+
+For this work the necessary data were obtained from 2 main sources:
+
+
+1.	Foursquare.
+https://es.foursquare.com/explore?mode=url&near=Santiago%20de%20Chile%2C%20Metropolitana%20de%20Santiago%20de%20Chile%2C%20Chile&nearGeoId=72057594041799272&q=farmacia
+2.	Farmanet.
+https://farmanet.minsal.cl/maps/#
+
+
+These two sources were used because in Foursquare only data and location are recorded in plans 
+of the 3 largest chains (Cruz Verde, Ahumada and Salcobrand), which shows a competitive advantage
+ of these compared to the smaller stores in the use of technology that could be a factor to 
+consider for future studies.
+
+Due to the above, a database of the State of Chile was used to complement and thus measure the 
+contrast between the two types of premises.
+
+The data obtained from these bases, were cleaned leave only 3 columns with the following information:
+(Latitude, Longitude, PharmacyName)
+(33.450806, -70.677501, GREEN CROSS)
+
+With the above we obtained the records of 197 pharmacies with their respective coordinates which
+will be geo-located to look for patterns in their locations.
